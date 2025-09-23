@@ -1,0 +1,29 @@
+[
+    {
+      "photo": "https://cdn.pixabay.com/photo/2014/02/27/16/10/flowers-276014_1280.jpg",
+      "date": "2023-08-15",
+      "heading": "Introduction to JavaScript",
+      "text": "JavaScript is a versatile programming language..."
+    },
+    {
+      "photo": "https://static.vecteezy.com/system/resources/thumbnails/007/073/820/small/wooden-table-and-blur-of-beauty-sunset-sky-and-mountains-as-background-free-photo.jpg",
+      "date": "2023-08-17",
+      "heading": "Web Development with HTML and CSS",
+      "text": "Creating a beautiful and functional website..."
+    },
+    {
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQO8AAxAr9ZNr9JCwn2QZ35rSWWuiayhh0ayQ&usqp=CAU",
+      "date": "2023-08-19",
+      "heading": "Getting Started with Node.js",
+      "text": "Node.js allows you to build server-side applications..."
+
+    },
+    {
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmvQrA6EZkB28CvHpEec8FmhoOiI3OqvxMcQ&usqp=CAU",
+      "date": "2023-08-19",
+      "heading": "Getting Started with Node.js",
+      "text": "Node.js allows you to build server-side applications..."
+      
+    }
+  ]
+  

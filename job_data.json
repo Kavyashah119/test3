@@ -1,0 +1,62 @@
+{
+    "job_roles": [
+      {
+        "role": "Software Engineer",
+        "location": "San Francisco",
+        "education": "10th pass",
+        "salary": "$100,000",
+        "work_experience": "2 years",
+        "job_description": "you will be required to work",
+        "skills": "Manpower controlling"
+      },
+      {
+        "role": "Marketing Manager",
+        "location": "New York",
+        "education": "10th pass",
+        "salary": "$90,000",
+        "work_experience": "3 years",
+        "job_description": "you will be required to work",
+        "skills": "Manpower controlling"
+      },
+      {
+        "role": "Data Scientist",
+        "location": "Seattle",
+        "education": "10th pass",
+        "salary": "$110,000",
+        "work_experience": "4 years",
+        "job_description": "you will be required to work",
+        "skills": "Manpower controlling"
+      },
+      {
+        "role": "Data Analyst",
+        "location": "Seattle",
+        "education": "10th pass",
+        "salary": "$110,000",
+        "work_experience": "4 years",
+        "job_description": "you will be required to work",
+        "skills": "Manpower controlling"
+      },
+      {
+        "role": "Data Warehouse",
+        "location": "Seattle",
+        "education": "10th pass",
+        "salary": "$110,000",
+        "work_experience": "4 years",
+        "job_description": "you will be required to work",
+        "skills": "Manpower controlling"
+      },
+      {
+        "role": "Food Crew",
+        "location": "Jambughoda",
+        "education": "10th pass",
+        "salary": "18,000 per month",
+        "work_experience": "2 years",
+        "job_description": "you will be required to work",
+        "skills": "Manpower controlling"
+      }
+
+      
+
+    ]
+  }
+  
